@@ -1,1 +1,1 @@
-# product-cards
+# Product card project
